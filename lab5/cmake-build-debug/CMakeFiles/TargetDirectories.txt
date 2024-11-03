@@ -1,0 +1,3 @@
+C:/Users/aniol/UPF-POO23-G102-08/lab5/cmake-build-debug/CMakeFiles/lab5.dir
+C:/Users/aniol/UPF-POO23-G102-08/lab5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aniol/UPF-POO23-G102-08/lab5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
