@@ -1,12 +1,6 @@
 ## Object-Oriented Programming - Universitat Pompeu Fabra
 
-This repository contains my group deliverables for the **Object-Oriented Programming** course, a second-year subject in the Bachelor's degree on *Mathematical Engineering on Data Science* at Universitat Pompeu Fabra, Barcelona. The deliverables in this repository correspond to the **2023 edition** of the course.
-
-### About the Course
-
-- **Theory Instructor**: Anders Jonsson  
-- **Lab Instructor**: Pritam Mishra  
-- **Institution**: Universitat Pompeu Fabra, Barcelona  
+This repository contains my group deliverables for the **Object-Oriented Programming** course, a second-year subject in the Bachelor's degree on *Mathematical Engineering on Data Science* at Universitat Pompeu Fabra, Barcelona. The deliverables in this repository correspond to the **2023 edition** of the course. 
 
 ### Project Details
 
